@@ -1,0 +1,7 @@
+{
+  "name": "yellowpos-client",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
